@@ -1,3 +1,7 @@
+.clang-format
+.vscode/**
+.vsTeensy/**
+
 # Prerequisites
 *.d
 
