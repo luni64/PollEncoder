@@ -1,3 +1,7 @@
+# This library is obsolete please use https://github.com/luni64/EncPlex instead. 
+
+---------------------------
+
 # PollEncoder
 
 PollEncoder is a small class to read encoders using the polling technique instead of the usual interrupt based method.
