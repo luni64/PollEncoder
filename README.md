@@ -1,4 +1,6 @@
-# This library is obsolete please use https://github.com/luni64/EncPlex instead. 
+# This library is obsolete 
+
+Please use  https://github.com/luni64/EncoderTool instead. 
 
 ---------------------------
 
